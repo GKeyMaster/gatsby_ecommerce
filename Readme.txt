@@ -1,1 +1,0 @@
-This is an ecommerce platform using Gatsby
